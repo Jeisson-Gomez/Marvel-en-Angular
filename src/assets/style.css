@@ -1,0 +1,17 @@
+h1{
+  margin: auto;
+  width: 640px;
+  padding: 50px;
+  font-family: 'avennir', sans-serif;
+  background: red;
+  color: white;
+}
+
+.center{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
